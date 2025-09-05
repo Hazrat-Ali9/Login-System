@@ -86,4 +86,4 @@ A modern, full-featured login and registration system implementing industry-stan
 
 
 **Developed by Hazrat Ali**  
-[[GitHub Follow]()]
+[[GitHub Follow](https://github.com/Hazrat-Ali9)]
