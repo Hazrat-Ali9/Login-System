@@ -4,8 +4,6 @@ A modern, full-featured login and registration system implementing industry-stan
 
 ## 🌐 Live Deployment
 
-[![Live Demo]]
-
 ## ✨ Core Features
 
 ### 🔒 Security Implementation
