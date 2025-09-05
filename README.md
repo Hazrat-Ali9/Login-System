@@ -78,7 +78,7 @@ A modern, full-featured login and registration system implementing industry-stan
 
 ## 📄 License
 
-MIT Licensed - Free for personal and commercial use
+[MIT License](LICENSE)
 
 
 **Developed by Hazrat Ali**  
