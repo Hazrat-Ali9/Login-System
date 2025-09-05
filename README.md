@@ -84,4 +84,4 @@ MIT Licensed - Free for personal and commercial use
 
 
 **Developed by Hazrat Ali**  
-[![GitHub Follow]()]()
+[[GitHub Follow]()]
